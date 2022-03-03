@@ -24,4 +24,6 @@ Memory Based Game That Flashes Random Numbers on Grid for 3 seconds.
     * [ ] New Game
 * [ ] Theme
 #### Tic Tac Toe - Pokemon API
-
+### TODO
+* [ ] make todo/
+* [ ] makde todo.md
